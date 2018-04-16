@@ -30,7 +30,6 @@ Here you can find a PSK example address for our MVP:
   
 qfgjqZKA7XsgXcKLty35wX9H5WgJBzswAR (base58)
 
-f2b6f169919c18adc84e38857543f1cd16c62c25 (hexadecimal)
-</p>
+f2b6f169919c18adc84e38857543f1cd16c62c25 (hexadecimal)</p>
 
 Have fun.
