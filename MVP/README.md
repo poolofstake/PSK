@@ -24,11 +24,10 @@ NOTES:
 3) to get some qtum back, you have to send some PQM tokens back to our contract address using the send function on the "QRC Tokens" tab
 4) in QTUM network in some case you have to use the "base58" address, in others the "exadecimal" address.
 5) QTUM coin and our token has 8 decimals, so if you read 100000000 is equal to 1.
+
 <p align="center">
 Here you can find a PSK example address for our MVP:
-
 qfgjqZKA7XsgXcKLty35wX9H5WgJBzswAR (base58)
-
 f2b6f169919c18adc84e38857543f1cd16c62c25 (hexadecimal)
 </p>
 
