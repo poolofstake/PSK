@@ -11,11 +11,16 @@ Than you need some qtum and you can obtain them here: http://testnet-faucet.qtum
 And finally here you are our smart contract details:
 
 TOKEN QTUM_PSK_MVP (PQM):
-Smart Contract address: qMaNLQCp86karfym3KE4FJPFoBF8x4brVE (base58)
+Smart Contract address:
+
+qMaNLQCp86karfym3KE4FJPFoBF8x4brVE (base58)
 
 2c103bcc035e7c7bcad867f5c00cbf07b02d0cd9 (hexadecimal)
 
-PSK example address for MVP: qfgjqZKA7XsgXcKLty35wX9H5WgJBzswAR (base58)
+
+PSK example address for MVP:
+
+qfgjqZKA7XsgXcKLty35wX9H5WgJBzswAR (base58)
 
 f2b6f169919c18adc84e38857543f1cd16c62c25 (hexadecimal)
 
