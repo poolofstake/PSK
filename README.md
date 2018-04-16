@@ -19,3 +19,8 @@ token and an IOU token are used, ensuring that PSK members are always in full co
 staked coins. The PSK platform will provide an analytics tool via a smart i.o. database that will
 allow PSK members to track, control and optimize their investments in a fully trustless way.
 
+# Pool of Stake White Paper
+
+You can read the current version of our white paper here:
+https://www.poolofstake.io/wp-content/uploads/2018/04/Pool_of_Stake_whitepaper.pdf
+
