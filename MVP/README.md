@@ -2,9 +2,9 @@
 
 For trying it, these are the details:
 <br>
-First of all, you need a qtum core wallet, you can download it here: https://github.com/qtumproject/qtum/releases
+First of all, you need a Qtum core wallet, you can download it here: https://github.com/qtumproject/qtum/releases
 <br>
-Second you need to run it with the `-testnet` extension.
+Second, you need to run it with the `-testnet` extension.
 <br>
 Then you need some qtum and you can obtain them here: http://testnet-faucet.qtum.info/#!/
 <br>
@@ -24,8 +24,8 @@ NOTES:
 2) to send your qtum to the contract to obtain the PQM tokens, you have to use the "sent to" function on the "Smart Contracts" tab.
 3) to view your PQM balance, you have to add the contract in the "QRC Tokens" tab using the exadecimal address of our smart contract.
 4) to get some qtum back, you have to send some PQM tokens back to our contract address using the send function on the "QRC Tokens" tab.
-5) in QTUM network in some case you have to use the "base58" address, in others the "exadecimal" address.
-6) QTUM coin and our token has 8 decimals, so if you read 100000000 is equal to 1.
+5) in Qtum network in some case you have to use the "base58" address, in others the "exadecimal" address.
+6) qtum coins and our tokens have 8 decimals, so if you read 100000000 is equal to 1.
 
 <br>
 
