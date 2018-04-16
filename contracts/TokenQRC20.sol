@@ -210,4 +210,3 @@ contract TokenQRC20 {
 
 
 
-
