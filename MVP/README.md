@@ -1,6 +1,6 @@
 # Smart contract with QRC20 IOU token for Pool of Stake MVP (backend) designed for QTUM testnet
 
-For trying it these are the details:
+For trying it, these are the details:
 <br>
 First of all, you need a qtum core wallet, you can download it here: https://github.com/qtumproject/qtum/releases
 <br>
