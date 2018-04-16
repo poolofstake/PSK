@@ -20,11 +20,12 @@ And finally here you are our smart contract details:
 
 NOTES:
 
-1) to send your qtum to the contract to obtain the PQM tokens, you have to use the "sent to" function on the "Smart Contracts" tab
-2) to view your PQM balance, you have to add the contract in the "QRC Tokens" tab using the exadecimal address of our smart contract
-3) to get some qtum back, you have to send some PQM tokens back to our contract address using the send function on the "QRC Tokens" tab
-4) in QTUM network in some case you have to use the "base58" address, in others the "exadecimal" address.
-5) QTUM coin and our token has 8 decimals, so if you read 100000000 is equal to 1.
+1) PQM tokens are our IOU tokens.
+2) to send your qtum to the contract to obtain the PQM tokens, you have to use the "sent to" function on the "Smart Contracts" tab.
+3) to view your PQM balance, you have to add the contract in the "QRC Tokens" tab using the exadecimal address of our smart contract.
+4) to get some qtum back, you have to send some PQM tokens back to our contract address using the send function on the "QRC Tokens" tab.
+5) in QTUM network in some case you have to use the "base58" address, in others the "exadecimal" address.
+6) QTUM coin and our token has 8 decimals, so if you read 100000000 is equal to 1.
 
 <br>
 
