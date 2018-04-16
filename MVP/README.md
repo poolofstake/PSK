@@ -7,9 +7,7 @@ First of all, you need a qtum core wallet, you can download it here: https://git
 Second you need to run it with the `-testnet` extension.
 <br>
 Than you need some qtum and you can obtain them here: http://testnet-faucet.qtum.info/#!/
-
 <br>
-
 And finally here you are our smart contract details:
 
 <p align="center">Smart Contract address for TOKEN QTUM_PSK_MVP (PQM):</p>
