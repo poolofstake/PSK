@@ -2,7 +2,7 @@
 
 For trying it these are the details:
 
-First of all you need a qtum core wallet, you can download it here: https://github.com/qtumproject/qtum/releases
+First of all, you need a qtum core wallet, you can download it here: https://github.com/qtumproject/qtum/releases
 
 Second you need to run it with the `-testnet` extension.
 
@@ -18,3 +18,5 @@ PSK example address for MVP: qfgjqZKA7XsgXcKLty35wX9H5WgJBzswAR
                              f2b6f169919c18adc84e38857543f1cd16c62c25 (hexadecimal)
 
 Plese note that QTUM network and our token has 8 decimals, so if you read 100000000 is equal to 1.
+
+Have fun.
