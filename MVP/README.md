@@ -3,11 +3,13 @@
 For trying it these are the details:
 
 First of all you need a qtum core wallet, you can download it here:
+
 https://github.com/qtumproject/qtum/releases
 
 Second you need to run it with the `-testnet` extension.
 
-Than you need some qtum, you can obtain them here:
+Than you need some qtum and you can obtain them here:
+
 http://testnet-faucet.qtum.info/#!/
 
 And finally here you are our smart contract details:
