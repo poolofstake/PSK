@@ -45,7 +45,7 @@ Twitter: https://twitter.com/poolofstake
 
 Facebook: https://www.facebook.com/poolofstake
 
-Youtube: https://www.youtube.com/channel/UCenEbx5MwCF7kjTAWU-jv_g?
+Youtube: https://www.youtube.com/channel/UCenEbx5MwCF7kjTAWU-jv_g
 
 
 ---
