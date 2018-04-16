@@ -24,6 +24,7 @@ allow PSK members to track, control and optimize their investments in a fully tr
 # Pool of Stake White Paper
 
 You can read the current version of our white paper here:
+
 https://www.poolofstake.io/wp-content/uploads/2018/04/Pool_of_Stake_whitepaper.pdf
 
 ---
@@ -31,12 +32,20 @@ https://www.poolofstake.io/wp-content/uploads/2018/04/Pool_of_Stake_whitepaper.p
 # Additional Information
 
 Website: https://www.poolofstake.io
+
 Linkedin: https://www.linkedin.com/company/pool-of-stake
+
 Bitcointalk: https://bitcointalk.org/index.php?topic=3283742.0
+
 Medium: https://medium.com/@poolofstake
+
 Telegram: https://telegram.me/poolofstake
+
 Twitter: https://twitter.com/poolofstake
+
 Facebook: https://www.facebook.com/poolofstake
+
 Youtube: https://www.youtube.com/channel/UCenEbx5MwCF7kjTAWU-jv_g?
+
 
 ---
