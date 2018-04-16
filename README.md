@@ -1,1 +1,2 @@
-# Smart contract with QRC20 IOU token for Pool of Stake MVP (backend)
+# Pool of Stake
+We have created a Pool for Proof of Stake blockchains.
