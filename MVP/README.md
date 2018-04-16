@@ -10,7 +10,7 @@ Then you need some qtum and you can obtain them here: http://testnet-faucet.qtum
 <br>
 And finally here you are our smart contract details:
 
-<p align="center">Smart Contract address for IOU TOKEN QTUM_PSK_MVP (PQM):</p>
+<p align="center">Smart Contract address for IOU token QTUM_PSK_MVP (PQM):</p>
 
 <p align="center">qMaNLQCp86karfym3KE4FJPFoBF8x4brVE (base58)</p>
 
