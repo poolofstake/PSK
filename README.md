@@ -6,7 +6,6 @@ We have created a Pool for Proof of Stake blockchains.
   <img src="https://raw.githubusercontent.com/poolofstake/PSK/master/images/PSK_Logo.png?raw=true" alt="Pool of Stake"/>
 </p>
 
----
 
 `Pool of Stake` (PSK) is a first of its kind, decentralized pool for Proof of Stake, the future
 of blockchain. Qtum, BOScoin, Tezos and other PoS coin holders can unite in the Pool of Stake
