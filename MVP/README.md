@@ -6,7 +6,7 @@ First of all, you need a qtum core wallet, you can download it here: https://git
 <br>
 Second you need to run it with the `-testnet` extension.
 <br>
-Than you need some qtum and you can obtain them here: http://testnet-faucet.qtum.info/#!/
+Then you need some qtum and you can obtain them here: http://testnet-faucet.qtum.info/#!/
 <br>
 And finally here you are our smart contract details:
 
