@@ -37,4 +37,5 @@ NOTES:
 
 <br>
 
+If you have any questions you can contact us on Telegram: https://telegram.me/poolofstake
 Have fun.
