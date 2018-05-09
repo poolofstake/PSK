@@ -31,9 +31,9 @@ NOTES:
 
 <p align="center">Here you can find a PSK example address for our MVP:</p>
   
-<p align="center">qfgjqZKA7XsgXcKLty35wX9H5WgJBzswAR (base58)</p>
+<p align="center">qazckqHM1qusGBDeH2coypAvSoDtt1ULCE (base58)</p>
 
-<p align="center">f2b6f169919c18adc84e38857543f1cd16c62c25 (hexadecimal)</p>
+<p align="center">bf3fe3ddf1c517f68b6d35be936cc775281f2292 (hexadecimal)</p>
 
 <br>
 
