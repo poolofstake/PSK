@@ -1,5 +1,5 @@
 # Pool of Stake
-We have created a Pool for Proof of Stake blockchains.
+We will create a Pool for Proof of Stake blockchains.
 
 
 <p align="center">
