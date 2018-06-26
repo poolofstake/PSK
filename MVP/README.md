@@ -1,4 +1,4 @@
-# Smart contract with QRC20 IOU token for Pool of Stake MVP (backend) designed for QTUM testnet
+# Smart contract with QRC20 KEY token for Pool of Stake prototype (backend) designed for QTUM testnet
 
 For trying it, these are the details:
 <br>
@@ -10,7 +10,7 @@ Then you need some qtum and you can obtain them here: http://testnet-faucet.qtum
 <br>
 And finally here you are our smart contract details:
 
-<p align="center">Smart Contract address for IOU token QTUM_PSK_MVP (PQM):</p>
+<p align="center">Smart Contract address for KEY token QTUM_PSK_MVP (PQM):</p>
 
 <p align="center">qMaNLQCp86karfym3KE4FJPFoBF8x4brVE (base58)</p>
 
@@ -20,7 +20,7 @@ And finally here you are our smart contract details:
 
 NOTES:
 
-1) PQM tokens are our IOU tokens.
+1) PQM tokens are our KEY tokens.
 2) to send your qtum to the contract to obtain the PQM tokens, you have to use the "sent to" function on the "Smart Contracts" tab.
 3) to view your PQM balance, you have to add the contract in the "QRC Tokens" tab using the exadecimal address of our smart contract.
 4) to get some qtum back, you have to send some PQM tokens back to our contract address using the send function on the "QRC Tokens" tab.
@@ -29,7 +29,7 @@ NOTES:
 
 <br>
 
-<p align="center">Here you can find a PSK example address for our MVP:</p>
+<p align="center">Here you can find a PSK example address for our prototype:</p>
   
 <p align="center">qazckqHM1qusGBDeH2coypAvSoDtt1ULCE (base58)</p>
 
