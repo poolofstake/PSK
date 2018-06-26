@@ -23,7 +23,7 @@ allow PSK members to track, control and optimize their investments in a fully tr
 
 You can read the current version of our white paper here:
 
-https://www.poolofstake.io/wp-content/uploads/2018/04/Pool_of_Stake_whitepaper.pdf
+https://www.poolofstake.io/wp-content/uploads/2017/12/PoolofStake-whitepaper_ENG_V10_01.pdf
 
 
 # Additional Information
